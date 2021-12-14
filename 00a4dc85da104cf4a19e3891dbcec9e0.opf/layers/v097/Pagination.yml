@@ -301,37 +301,37 @@ annotations:
     reference: ''
     span:
       start: 57245
-      end: 59345
+      end: 59343
   9a6b19f8d16542c4a1ab92dcb96b1618:
     imgnum: 895
     reference: ''
     span:
-      start: 59347
-      end: 61707
+      start: 59345
+      end: 61705
   24a94982296d46068245862bbf3f9dd3:
     imgnum: 896
     reference: ''
     span:
-      start: 61709
-      end: 64125
+      start: 61707
+      end: 64123
   f41a098c7bb046288b6d090c403c6939:
     imgnum: 897
     reference: ''
     span:
-      start: 64127
-      end: 66519
+      start: 64125
+      end: 66517
   11a43443f520427ebd5571b2747f6e76:
     imgnum: 898
     reference: ''
     span:
-      start: 66521
-      end: 68799
+      start: 66519
+      end: 68797
   18d204a98cf247a6881b175683c90058:
     imgnum: 899
     reference: ''
     span:
-      start: 68801
-      end: 68839
+      start: 68799
+      end: 68837
   1f1e8bec20a042b0a82c06ca2cbd3552:
     imgnum: 900
     reference: ''
